@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
     <table align="center">
   <tr>
     <td><img src="https://github.com/Aayush014/adv_flutter_part_1/assets/133498952/2b8acf63-4d97-4f44-bce9-7d8b5a051ea0" alt="Image 2" width="180" height="auto"></td>
-    <td><img src="https://github.com/Aayush014/adv_flutter_part_1/assets/133498952/0910bf62-ddec-483e-9081-152d93873492" alt="Image 2" width="180" height="auto"></td>=
+    <td><img src="https://github.com/Aayush014/adv_flutter_part_1/assets/133498952/0910bf62-ddec-483e-9081-152d93873492" alt="Image 2" width="180" height="auto"></td>
   </tr>
     </table>    
   </p>
